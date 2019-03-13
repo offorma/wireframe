@@ -14,6 +14,9 @@
 .menu ul{
     text-align: center;
 }
+.menu{
+    width: 14.2%;
+}
 body{
     background: #585858;
 }
