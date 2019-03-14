@@ -9,7 +9,7 @@ CSS & HTML
 ## Authors
 
 * **Chukwunonso Offorma** - [Profile](https://github.com/offorma)
-* **Joshua Tafang**  - [Profile](https://github.com/tafodinho)
+* **Tafang Joshua**  - [Profile](https://github.com/tafodinho)
 
 ## Site
 
