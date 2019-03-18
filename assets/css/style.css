@@ -152,11 +152,33 @@ body{
 .center{
     margin: 0 auto;
 }
+.twit-mrg{
+    width: 48%;
+    margin: 1%;
+}
 .seventh-section{
-  
+  width: 90%;
+  margin-top:3%;
+}
+.design-systems{
+    margin-bottom: 5%;
+    padding: 20vh 50vw 20vh 50vw;
 }
 .more-link{
     text-align: center;
     height: 80px;
-    background: #D6D6D6;
+}
+.newsletter{
+    width: 90%;
+    padding: 35vh 0px 35vh  0px;
+    margin: 0 auto;
+}
+.circle{
+    border-radius: 50%;
+    padding: 47vh 10vh 10vh 47vh;
+    width: 20%;
+    margin: 0 auto;
+}
+.footer{
+    height: 70vh;
 }
