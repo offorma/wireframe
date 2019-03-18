@@ -40,6 +40,9 @@ body{
 .col-1-7 {
     width: 12.28%;
 }
+.col-6-7{
+    width: 87.72%;
+}
 .col-1-2 {
     width: 50%
 }
@@ -140,4 +143,20 @@ body{
     padding: 150px 200px 150px 200px;
     width: 57%;
     margin-left: 80px
+}
+.article-img{
+    width: 80px;
+    height: 80px;
+    background: #596170;
+}
+.center{
+    margin: 0 auto;
+}
+.seventh-section{
+  
+}
+.more-link{
+    text-align: center;
+    height: 80px;
+    background: #D6D6D6;
 }
