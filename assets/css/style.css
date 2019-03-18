@@ -16,6 +16,7 @@
     margin-top: 3%;
 }
 .menu{
+    padding: 30px 0px 30px 0px;
     width: 14.28%;
     text-align: center;
 }
@@ -58,17 +59,17 @@ body{
 }
 
 .latest-article {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .latest-article .article {
     height: 70px;
     color: white;
-    padding: 250px 20px 250px 20px;
+    padding: 370px 20px 370px 20px;
 
 }
 .new-article {
-    margin-bottom: 20px
+    margin-bottom: 50px
 }
 .new-article .article,
 .fouth-section .article{
@@ -104,7 +105,7 @@ body{
     transform: scale(1.1)
 }
 .fouth-section {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 .left-content {
     border: 1px solid grey;
@@ -137,7 +138,7 @@ body{
     margin: auto
 }
 .fifth-section {
-    margin-bottom: 30px
+    margin-bottom: 50px
 }
 .sixth-section .article {
     padding: 150px 200px 150px 200px;
