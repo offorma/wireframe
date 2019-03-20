@@ -18,7 +18,4 @@
     box-sizing: border-box;
   }
 
-  [class*='col-'] {
-    padding-right: 20px;
-  }
-  
+
